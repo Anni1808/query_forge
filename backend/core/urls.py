@@ -18,5 +18,5 @@ from django.contrib import admin
 from django.urls import path
 
 urlpatterns = [
-    path('admi;sdflkgjsd;llfgjn/', admin.site.urls),
+    path('admidjdsn/', admin.site.urls),
 ]
